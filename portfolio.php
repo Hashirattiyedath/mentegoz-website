@@ -395,16 +395,16 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/work/web designing/jdt/1.jpg" alt="institution website" style="width:100%;">
+                              <img src="img/work/web designing/jdt/1.jpg" alt="institution website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/jdt/2.jpg" alt="Collage website calicut" style="width:100%;">
+                              <img src="img/work/web designing/jdt/2.jpg" alt="Collage website calicut" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/jdt/3.jpg" alt="Jdt islam website" style="width:100%;">
+                              <img src="img/work/web designing/jdt/3.jpg" alt="Jdt islam website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/jdt/4.jpg" alt="Digital marketing and ads" style="width:100%;">
+                              <img src="img/work/web designing/jdt/4.jpg" alt="Digital marketing and ads" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -430,16 +430,16 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/work/web designing/pest/1.jpg" alt="e-commerce designing calicut" style="width:100%;">
+                              <img src="img/work/web designing/pest/1.jpg" alt="e-commerce designing calicut" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/pest/2.jpg" alt="e-commerce designing calicut" style="width:100%;">
+                              <img src="img/work/web designing/pest/2.jpg" alt="e-commerce designing calicut" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/pest/3.jpg" alt="e-commerce designing calicut" style="width:100%;">
+                              <img src="img/work/web designing/pest/3.jpg" alt="e-commerce designing calicut" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/pest/4.jpg" alt="e-commerce designing calicut" style="width:100%;">
+                              <img src="img/work/web designing/pest/4.jpg" alt="e-commerce designing calicut" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -466,13 +466,13 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/portfolio/skillhat/1.jpg" alt="Dynamic Website designing calicut" style="width:100%;">
+                              <img src="img/portfolio/skillhat/1.jpg" alt="Dynamic Website designing calicut" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/portfolio/skillhat/2.jpg" alt="Dynamic Website designing calicut" style="width:100%;">
+                              <img src="img/portfolio/skillhat/2.jpg" alt="Dynamic Website designing calicut" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/portfolio/skillhat/3.jpg" alt="Dynamic Website designing calicut" style="width:100%;">
+                              <img src="img/portfolio/skillhat/3.jpg" alt="Dynamic Website designing calicut" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -499,10 +499,10 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/portfolio/ELLIPSIZ (WEB)/1.jpg" alt="Dynamic Website designing calicut" style="width:100%;">
+                              <img src="img/portfolio/ELLIPSIZ (WEB)/1.jpg" alt="Dynamic Website designing calicut" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/portfolio/ELLIPSIZ (WEB)/elipsiz-mob.jpg" alt="Dynamic Website designing calicut" style="width:100%;">
+                              <img src="img/portfolio/ELLIPSIZ (WEB)/elipsiz-mob.jpg" alt="Dynamic Website designing calicut" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -528,10 +528,10 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/portfolio/koyla/1.jpg" alt="Dynamic Website designing calicut" style="width:100%;">
+                              <img src="img/portfolio/koyla/1.jpg" alt="Dynamic Website designing calicut" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/portfolio/koyla/2.jpg" alt="Dynamic Website designing calicut" style="width:100%;">
+                              <img src="img/portfolio/koyla/2.jpg" alt="Dynamic Website designing calicut" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -560,13 +560,13 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/portfolio/spice-on/1.jpg" alt="Dynamic Website designing calicut" style="width:100%;">
+                              <img src="img/portfolio/spice-on/1.jpg" alt="Dynamic Website designing calicut" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/portfolio/spice-on/2.jpg" alt="Dynamic Website designing calicut" style="width:100%;">
+                              <img src="img/portfolio/spice-on/2.jpg" alt="Dynamic Website designing calicut" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/portfolio/spice-on/3.jpg" alt="Dynamic Website designing calicut" style="width:100%;">
+                              <img src="img/portfolio/spice-on/3.jpg" alt="Dynamic Website designing calicut" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -592,13 +592,13 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/portfolio/artic-adv/1.jpg" alt="e-commerce designing calicut" style="width:100%;">
+                              <img src="img/portfolio/artic-adv/1.jpg" alt="e-commerce designing calicut" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/portfolio/artic-adv/2.jpg" alt="e-commerce designing calicut" style="width:100%;">
+                              <img src="img/portfolio/artic-adv/2.jpg" alt="e-commerce designing calicut" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/portfolio/artic-adv/3.jpg" alt="e-commerce designing calicut" style="width:100%;">
+                              <img src="img/portfolio/artic-adv/3.jpg" alt="e-commerce designing calicut" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -623,16 +623,16 @@
                         </ol>
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/work/web designing/mobind/1.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/work/web designing/mobind/1.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/mobind/2.jpg" alt="Mobile responsive website" style="width:100%;">
+                              <img src="img/work/web designing/mobind/2.jpg" alt="Mobile responsive website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/mobind/3.jpg" alt="Responcive design" style="width:100%;">
+                              <img src="img/work/web designing/mobind/3.jpg" alt="Responcive design" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/mobind/4.jpg" alt="Best web designing company in calicut" style="width:100%;">
+                              <img src="img/work/web designing/mobind/4.jpg" alt="Best web designing company in calicut" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -657,16 +657,16 @@
                         </ol>
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/work/web designing/wins/1.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/work/web designing/wins/1.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/wins/2.jpg" alt="Mobile responsive website" style="width:100%;">
+                              <img src="img/work/web designing/wins/2.jpg" alt="Mobile responsive website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/wins/3.jpg" alt="Responcive design" style="width:100%;">
+                              <img src="img/work/web designing/wins/3.jpg" alt="Responcive design" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/wins/4.jpg" alt="Best web designing company in calicut" style="width:100%;">
+                              <img src="img/work/web designing/wins/4.jpg" alt="Best web designing company in calicut" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -694,16 +694,16 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/work/web designing/arifassociate/1.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/work/web designing/arifassociate/1.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/arifassociate/2.jpg" alt="Mobile responsive website" style="width:100%;">
+                              <img src="img/work/web designing/arifassociate/2.jpg" alt="Mobile responsive website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/arifassociate/3.jpg" alt="Responcive design" style="width:100%;">
+                              <img src="img/work/web designing/arifassociate/3.jpg" alt="Responcive design" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/arifassociate/4.jpg" alt="Best web designing company in calicut" style="width:100%;">
+                              <img src="img/work/web designing/arifassociate/4.jpg" alt="Best web designing company in calicut" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -726,16 +726,16 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/work/web designing/tallmen/1.jpg" alt="e-commerce designing calicut" style="width:100%;">
+                              <img src="img/work/web designing/tallmen/1.jpg" alt="e-commerce designing calicut" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/tallmen/2.jpg" alt="e-commerce designing calicut" style="width:100%;">
+                              <img src="img/work/web designing/tallmen/2.jpg" alt="e-commerce designing calicut" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/tallmen/3.jpg" alt="e-commerce designing calicut" style="width:100%;">
+                              <img src="img/work/web designing/tallmen/3.jpg" alt="e-commerce designing calicut" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/tallmen/4.jpg" alt="e-commerce designing calicut" style="width:100%;">
+                              <img src="img/work/web designing/tallmen/4.jpg" alt="e-commerce designing calicut" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -761,16 +761,16 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/work/web designing/tfa/1.jpg" alt="Ecommerce website provider" style="width:100%;">
+                              <img src="img/work/web designing/tfa/1.jpg" alt="Ecommerce website provider" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/tfa/2.jpg" alt="e-commerce website designing" style="width:100%;">
+                              <img src="img/work/web designing/tfa/2.jpg" alt="e-commerce website designing" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/tfa/4.jpg" alt="e-commerce Development" style="width:100%;">
+                              <img src="img/work/web designing/tfa/4.jpg" alt="e-commerce Development" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/tfa/3.jpg" alt="e-commerce designing calicut" style="width:100%;">
+                              <img src="img/work/web designing/tfa/3.jpg" alt="e-commerce designing calicut" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -794,16 +794,16 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/work/branding/ozo/1.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/work/branding/ozo/1.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/branding/ozo/2.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/work/branding/ozo/2.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/branding/ozo/1.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/work/branding/ozo/1.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/branding/ozo/2.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/work/branding/ozo/2.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -830,16 +830,16 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/work/branding/abana/1.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/work/branding/abana/1.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/branding/abana/1.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/work/branding/abana/1.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/branding/abana/1.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/work/branding/abana/1.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/branding/abana/1.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/work/branding/abana/1.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -865,10 +865,10 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/work/branding/d-club/3.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/work/branding/d-club/3.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/branding/d-club/6.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/work/branding/d-club/6.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -895,13 +895,13 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/work/branding/FRS-FOOD/f4.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/work/branding/FRS-FOOD/f4.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/branding/FRS-FOOD/f-5.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/work/branding/FRS-FOOD/f-5.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/branding/FRS-FOOD/f6.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/work/branding/FRS-FOOD/f6.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -929,10 +929,10 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/branding/bosq/1.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/branding/bosq/1.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/branding/bosq/2.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/branding/bosq/2.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -959,13 +959,13 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/portfolio/starpess/1.jpg" alt="Dynamic website provider" style="width:100%;">
+                              <img src="img/portfolio/starpess/1.jpg" alt="Dynamic website provider" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/portfolio/starpess/2.jpg" alt="Dynamic website designing" style="width:100%;">
+                              <img src="img/portfolio/starpess/2.jpg" alt="Dynamic website designing" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/portfolio/starpess/3.jpg" alt="Dynamic website Development" style="width:100%;">
+                              <img src="img/portfolio/starpess/3.jpg" alt="Dynamic website Development" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -992,13 +992,13 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/portfolio/yes cube/1.jpg" alt="Dynamic website provider" style="width:100%;">
+                              <img src="img/portfolio/yes cube/1.jpg" alt="Dynamic website provider" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/portfolio/yes cube/2.jpg" alt="Dynamic website designing" style="width:100%;">
+                              <img src="img/portfolio/yes cube/2.jpg" alt="Dynamic website designing" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/portfolio/yes cube/3.jpg" alt="Dynamic website Development" style="width:100%;">
+                              <img src="img/portfolio/yes cube/3.jpg" alt="Dynamic website Development" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -1024,13 +1024,13 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/work/branding/sabarigiri/3.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/work/branding/sabarigiri/3.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/branding/sabarigiri/1.jpg" alt="Mobile responsive website" style="width:100%;">
+                              <img src="img/work/branding/sabarigiri/1.jpg" alt="Mobile responsive website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/branding/sabarigiri/2.jpg" alt="Responcive design" style="width:100%;">
+                              <img src="img/work/branding/sabarigiri/2.jpg" alt="Responcive design" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -1053,16 +1053,16 @@
                         </ol>
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/work/web designing/mm/1.jpg" alt="Ecommerce website provider" style="width:100%;">
+                              <img src="img/work/web designing/mm/1.jpg" alt="Ecommerce website provider" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/mm/2.jpg" alt="e-commerce website designing" style="width:100%;">
+                              <img src="img/work/web designing/mm/2.jpg" alt="e-commerce website designing" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/mm/4.jpg" alt="e-commerce Development" style="width:100%;">
+                              <img src="img/work/web designing/mm/4.jpg" alt="e-commerce Development" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/mm/3.jpg" alt="e-commerce designing calicut" style="width:100%;">
+                              <img src="img/work/web designing/mm/3.jpg" alt="e-commerce designing calicut" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -1088,16 +1088,16 @@
                         </ol>
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/work/web designing/cees/1.jpg" alt="Best Ecommerce Webdesign Company" style="width:100%;">
+                              <img src="img/work/web designing/cees/1.jpg" alt="Best Ecommerce Webdesign Company" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/cees/2.jpg" alt="Ecommerce portal" style="width:100%;">
+                              <img src="img/work/web designing/cees/2.jpg" alt="Ecommerce portal" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/cees/3.jpg" alt="Ecommerce service calicut" style="width:100%;">
+                              <img src="img/work/web designing/cees/3.jpg" alt="Ecommerce service calicut" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/cees/4.jpg" alt="Ecommerce service Kozhikode" style="width:100%;">
+                              <img src="img/work/web designing/cees/4.jpg" alt="Ecommerce service Kozhikode" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -1122,18 +1122,19 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/work/web designing/tech/1.jpg" alt="Best Ecommerce Webdesign Company" style="width:100%;">
+                              <img src="img/work/web designing/tech/1.jpg" alt="Best Ecommerce Webdesign Company" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/tech/2.jpg" alt="Ecommerce portal" style="width:100%;">
+                              <img src="img/work/web designing/tech/2.jpg" alt="Ecommerce portal" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/tech/3.jpg" alt="Ecommerce service calicut" style="width:100%;">
+                              <img src="img/work/web designing/tech/3.jpg" alt="Ecommerce service calicut" style="width:100%;">
                            </div>
                         </div>
                      </div>
                   </div>
                </div>
+               
                <div class="col-md-4 items web">
                   <div class="tz-gallery">
                      <div class="middle1">
@@ -1151,18 +1152,127 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/work/web designing/egf/1.jpg" alt="Best Ecommerce Webdesign Company" style="width:100%;">
+                              <img src="img/work/web designing/egf/1.jpg" alt="Best Ecommerce Webdesign Company" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/egf/2.jpg" alt="Ecommerce portal" style="width:100%;">
+                              <img src="img/work/web designing/egf/2.jpg" alt="Ecommerce portal" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/egf/3.jpg" alt="Ecommerce service calicut" style="width:100%;">
+                              <img src="img/work/web designing/egf/3.jpg" alt="Ecommerce service calicut" style="width:100%;">
                            </div>
                         </div>
                      </div>
                   </div>
                </div>
+
+               <div class="col-md-4 items web">
+                  <div class="tz-gallery">
+                     <div class="middle1">
+                        <a href="http://egfacademy.com/">
+                           <div class="text"><span>Dynamic Website</span> <br>SMITH & MORGAN<br><span style="font-size: 12px;">Calicut, Kerala</span> <br></div>
+                        </a>
+                     </div>
+                     <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                        <!-- Indicators -->
+                        <ol class="carousel-indicators">
+                           <li data-target="#" data-slide-to="0" class="active"></li>
+                           <li data-target="#" data-slide-to="1"></li>
+                           <li data-target="#" data-slide-to="2"></li>
+                        </ol>
+                        <!-- Wrapper for slides -->
+                        <div class="carousel-inner">
+                           <div class="item active">
+                              <img src="img/portfolio/2021/smith/1.jpg" alt="Best Ecommerce Webdesign Company" style="width:100%;">
+                           </div>
+                           <div class="item">
+                              <img src="img/portfolio/2021/smith/2.jpg" alt="Ecommerce portal" style="width:100%;">
+                           </div>
+                           <div class="item">
+                              <img src="img/portfolio/2021/smith/3.jpg" alt="Ecommerce service calicut" style="width:100%;">
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-md-4 items web">
+                  <div class="tz-gallery">
+                     <div class="middle1">
+                        <a href="http://egfacademy.com/">
+                           <div class="text"><span>Dynamic Website</span> <br>ADVERTISING HOUSE<br><span style="font-size: 12px;">Doha, Qatar</span> <br></div>
+                        </a>
+                     </div>
+                     <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                        <!-- Indicators -->
+                        <ol class="carousel-indicators">
+                           <li data-target="#" data-slide-to="0" class="active"></li>
+                           <li data-target="#" data-slide-to="1"></li>
+                        </ol>
+                        <!-- Wrapper for slides -->
+                        <div class="carousel-inner">
+                           <div class="item active">
+                              <img src="img/portfolio/2021/advertising/1.jpg" alt="Best Ecommerce Webdesign Company" style="width:100%;">
+                           </div>
+                           <div class="item">
+                              <img src="img/portfolio/2021/advertising/2.jpg" alt="Ecommerce portal" style="width:100%;">
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-md-4 items web">
+                  <div class="tz-gallery">
+                     <div class="middle1">
+                        <a href="http://egfacademy.com/">
+                           <div class="text"><span>Dynamic Website</span> <br>GERMAN TECH<br><span style="font-size: 12px;">Abu Dhabi</span> <br></div>
+                        </a>
+                     </div>
+                     <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                        <!-- Indicators -->
+                        <ol class="carousel-indicators">
+                           <li data-target="#" data-slide-to="0" class="active"></li>
+                           <li data-target="#" data-slide-to="1"></li>
+                        </ol>
+                        <!-- Wrapper for slides -->
+                        <div class="carousel-inner">
+                           <div class="item active">
+                              <img src="img/portfolio/2021/germen/1.jpg" alt="Best Ecommerce Webdesign Company" style="width:100%;">
+                           </div>
+                           <div class="item">
+                              <img src="img/portfolio/2021/germen/2.jpg" alt="Ecommerce portal" style="width:100%;">
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+              <div class="col-md-4 items web">
+                  <div class="tz-gallery">
+                     <div class="middle1">
+                        <a href="http://egfacademy.com/">
+                           <div class="text"><span>Dynamic Website</span> <br>NEXTOC<br><span style="font-size: 12px;">Calicut, Kerala</span> <br></div>
+                        </a>
+                     </div>
+                     <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                        <!-- Indicators -->
+                        <ol class="carousel-indicators">
+                           <li data-target="#" data-slide-to="0" class="active"></li>
+                           <li data-target="#" data-slide-to="1"></li>
+                        </ol>
+                        <!-- Wrapper for slides -->
+                        <div class="carousel-inner">
+                           <div class="item active">
+                              <img src="img/portfolio/2021/naxtoc/1.jpg" alt="Best Ecommerce Webdesign Company" style="width:100%;">
+                           </div>
+                           <div class="item">
+                              <img src="img/portfolio/2021/naxtoc/2.jpg" alt="Ecommerce portal" style="width:100%;">
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
 
 
 <!--                <div class="col-md-4 items web">
@@ -1180,13 +1290,13 @@
                         </ol>
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/work/web designing/digi/1.jpg" alt="Best Ecommerce Webdesign Company" style="width:100%;">
+                              <img src="img/work/web designing/digi/1.jpg" alt="Best Ecommerce Webdesign Company" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/digi/2.jpg" alt="Ecommerce portal" style="width:100%;">
+                              <img src="img/work/web designing/digi/2.jpg" alt="Ecommerce portal" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/web designing/digi/3.jpg" alt="Ecommerce service calicut" style="width:100%;">
+                              <img src="img/work/web designing/digi/3.jpg" alt="Ecommerce service calicut" style="width:100%;">
                            </div>
                         </div>  
                      </div>
@@ -1211,13 +1321,13 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/work/branding/fr/30.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/work/branding/fr/30.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/branding/fr/1.jpg" alt="Mobile responsive website" style="width:100%;">
+                              <img src="img/work/branding/fr/1.jpg" alt="Mobile responsive website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/branding/fr/2.jpg" alt="Responcive design" style="width:100%;">
+                              <img src="img/work/branding/fr/2.jpg" alt="Responcive design" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -1239,10 +1349,10 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/work/branding/meemi/1.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/work/branding/meemi/1.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/branding/meemi/1.jpg" alt="Mobile responsive website" style="width:100%;">
+                              <img src="img/work/branding/meemi/1.jpg" alt="Mobile responsive website" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -1264,10 +1374,10 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/work/branding/zero/1.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/work/branding/zero/1.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/branding/zero/1.jpg" alt="Mobile responsive website" style="width:100%;">
+                              <img src="img/work/branding/zero/1.jpg" alt="Mobile responsive website" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -1289,10 +1399,10 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/work/branding/exp/1.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/work/branding/exp/1.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/branding/exp/1.jpg" alt="Mobile responsive website" style="width:100%;">
+                              <img src="img/work/branding/exp/1.jpg" alt="Mobile responsive website" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -1314,10 +1424,10 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/work/branding/elip/1.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/work/branding/elip/1.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/branding/elip/1.jpg" alt="Mobile responsive website" style="width:100%;">
+                              <img src="img/work/branding/elip/1.jpg" alt="Mobile responsive website" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -1339,10 +1449,10 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/work/branding/bcafe/1.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/work/branding/bcafe/1.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/branding/bcafe/1.jpg" alt="Mobile responsive website" style="width:100%;">
+                              <img src="img/work/branding/bcafe/1.jpg" alt="Mobile responsive website" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -1364,10 +1474,10 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/work/branding/arif/1.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/work/branding/arif/1.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/branding/arif/1.jpg" alt="Mobile responsive website" style="width:100%;">
+                              <img src="img/work/branding/arif/1.jpg" alt="Mobile responsive website" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -1390,10 +1500,10 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/branding/plan-hut/1.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/branding/plan-hut/1.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/branding/plan-hut/2.jpg" alt="Mobile responsive website" style="width:100%;">
+                              <img src="img/branding/plan-hut/2.jpg" alt="Mobile responsive website" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -1417,10 +1527,10 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/branding/happy-cravings/1.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/branding/happy-cravings/1.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/branding/happy-cravings/2.jpg" alt="Mobile responsive website" style="width:100%;">
+                              <img src="img/branding/happy-cravings/2.jpg" alt="Mobile responsive website" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -1445,16 +1555,16 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/branding/vaayo/1.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/branding/vaayo/1.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/branding/vaayo/2.jpg" alt="Mobile responsive website" style="width:100%;">
+                              <img src="img/branding/vaayo/2.jpg" alt="Mobile responsive website" style="width:100%;">
                            </div>
                                                       <div class="item">
-                              <img loading="lazy" src="img/branding/vaayo/3.jpg" alt="Mobile responsive website" style="width:100%;">
+                              <img src="img/branding/vaayo/3.jpg" alt="Mobile responsive website" style="width:100%;">
                            </div>
                                                       <div class="item">
-                              <img loading="lazy" src="img/branding/vaayo/4.jpg" alt="Mobile responsive website" style="width:100%;">
+                              <img src="img/branding/vaayo/4.jpg" alt="Mobile responsive website" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -1478,10 +1588,10 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/branding/newstar/1.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/branding/newstar/1.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/branding/newstar/2.jpg" alt="Mobile responsive website" style="width:100%;">
+                              <img src="img/branding/newstar/2.jpg" alt="Mobile responsive website" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -1505,10 +1615,10 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/branding/RV/1.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/branding/RV/1.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/branding/RV/2.jpg" alt="Mobile responsive website" style="width:100%;">
+                              <img src="img/branding/RV/2.jpg" alt="Mobile responsive website" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -1534,16 +1644,16 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/branding/zoho/1.jpg" alt="Dynamic Website" style="width:100%;">
+                              <img src="img/branding/zoho/1.jpg" alt="Dynamic Website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/branding/zoho/2.jpg" alt="Mobile responsive website" style="width:100%;">
+                              <img src="img/branding/zoho/2.jpg" alt="Mobile responsive website" style="width:100%;">
                            </div>
                             <div class="item">
-                              <img loading="lazy" src="img/branding/zoho/3.jpg" alt="Mobile responsive website" style="width:100%;">
+                              <img src="img/branding/zoho/3.jpg" alt="Mobile responsive website" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/branding/zoho/4.jpg" alt="Mobile responsive website" style="width:100%;">
+                              <img src="img/branding/zoho/4.jpg" alt="Mobile responsive website" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -1567,10 +1677,10 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/work/app/techpoint/2.jpg" alt="Best android app Developer Kozhikode" style="width:100%;">
+                              <img src="img/work/app/techpoint/2.jpg" alt="Best android app Developer Kozhikode" style="width:100%;">
                            </div>
                            <div class="item">
-                              <img loading="lazy" src="img/work/app/techpoint/1.jpg" alt="Best Mobile app Developer Kozhikode" style="width:100%;">
+                              <img src="img/work/app/techpoint/1.jpg" alt="Best Mobile app Developer Kozhikode" style="width:100%;">
                            </div>
                         </div>
                      </div>
@@ -1592,7 +1702,7 @@
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                            <div class="item active">
-                              <img loading="lazy" src="img/work/app/digital/1.jpg" alt="Best android app Developer Kozhikode" style="width:100%;">
+                              <img src="img/work/app/digital/1.jpg" alt="Best android app Developer Kozhikode" style="width:100%;">
                            </div>
                            <div class="item">
                               <img loading="lazy" src="img/work/app/digital/2.jpg" alt="Best Mobile app Developer Kozhikode" style="width:100%;">

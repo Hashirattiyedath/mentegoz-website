@@ -1516,7 +1516,7 @@ section {
 	top: 70px;
 	left: -13px;
 	max-height: 327px;
-	outline: 1.2px solid #eee;
+	outline: 2.2px solid #dadada;
 	overflow: hidden;
 	transform: rotate(334.5deg) skew(20deg, 10deg) translateX(171px);
 	transition: 45s linear all;
