@@ -165,7 +165,48 @@
 <!-- end about section -->
                   
 
-<?php include 'servicesection.php' ?>
+<section id="abc" style="padding: 50px 0;" class="bg-light-gray">
+            <div class="container">
+              <!--   <div class="text-center section-heading">
+                    <h2>We Provide Awesome Services</h2>
+                </div> -->
+                <div class="row">
+                    <div class="col-lg-4 col-md-12 sm-margin-20px-bottom">
+                        <div class="services-block padding-45px-tb padding-25px-lr sm-padding-35px-tb sm-padding-20px-lr xs-padding-30px-tb xs-padding-15px-lr last-paragraph-no-margin wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                            <div class="title-box margin-25px-bottom sm-margin-15px-bottom">
+                                <i class="fas fa-clone text-theme-color"></i>
+                                <div class="box-circle-large"></div>
+                                <div class="box-circle-small"></div>
+                            </div>
+                            <h3 class="margin-10px-bottom font-size22 md-font-size20 xs-font-size18">ANALYZE</h3>
+                            <p class="font-size16 line-height-28 sm-font-size14 sm-line-height-24">We primarily look into researching and analysing the Requirements of our clients and to come up with the best and reliable solutions to help our clients with their needs. Breaking down of the requirements and analysing each possible ways of solution is our key and integral part of our work.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-12 sm-margin-20px-bottom">
+                        <div class="services-block padding-45px-tb padding-25px-lr sm-padding-35px-tb sm-padding-20px-lr xs-padding-30px-tb xs-padding-15px-lr last-paragraph-no-margin wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                            <div class="title-box margin-25px-bottom sm-margin-15px-bottom">
+                                <i class="fab fa-accusoft text-theme-color"></i>
+                                <div class="box-circle-large"></div>
+                                <div class="box-circle-small"></div>
+                            </div>
+                            <h3 class="margin-10px-bottom font-size22 md-font-size20 xs-font-size18">DESIGN</h3>
+                            <p class="font-size16 line-height-28 sm-font-size14 sm-line-height-24">We spend hours on great design methodology to find and implement the best, innovative and essential design to help our clients with enhanced standards and appeal for further business development. Design plays a crucial role in attracting and enhancing your business </p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-12">
+                        <div class="services-block padding-45px-tb padding-25px-lr sm-padding-35px-tb sm-padding-20px-lr xs-padding-30px-tb xs-padding-15px-lr last-paragraph-no-margin wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
+                            <div class="title-box margin-25px-bottom sm-margin-15px-bottom">
+                                <i class="fas fa fa-code text-theme-color"></i>
+                                <div class="box-circle-large"></div>
+                                <div class="box-circle-small"></div>
+                            </div>
+                            <h3 class="margin-15px-bottom font-size22 md-font-size20 xs-font-size18">CODE</h3>
+                            <p class="font-size16 line-height-28 sm-font-size14 sm-line-height-24">Our Top-Notch programmers are best at creating codes without the possibility of errors and meet all the functionalities of the product ensuring the complete satisfaction of the client. Coding effective programs help in increasing the functionalities of the product. We ensure maximum utility </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
 
 <!-- start about service description -->
